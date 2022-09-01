@@ -1,39 +1,31 @@
 body{
 	background-color: goldenrod;
-
 }
 
 header{
 	width: 100%;
 	height: 250px;
 	background-color: darkcyan;
-
 }
-
-
 
 header img{
 	margin-left: 45%;
-	
 } 
 
-main{text-align: center;
-
-
+main{
+	text-align: center;
 }
 main h1{
 	font-size: 50px;
 	text-align: center;
 	color: dark;
 	margin: 30px 0px;
-
 }
 
 main section{
 	margin:  20px 50px 20px 50px;
 	display: inline-block;
 }
-
 
 .bomba1{
 	display: inline-block;
@@ -43,7 +35,6 @@ main section{
 	display: float;
 	margin-right: 400px auto;
 }
-
 
 section input{
 	text-align: center;
@@ -56,7 +47,6 @@ section button{
 	width: 100px;
 	height: 50px;
 	margin-top: 20px;
-
 }
 
 footer h2 {
@@ -72,6 +62,4 @@ footer p{
 	.bomba1, .bomba22, section  {
 		width: auto;
 	}
-
-
 }
