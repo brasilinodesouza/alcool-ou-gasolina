@@ -65,7 +65,7 @@ footer h2 {
 	background-color: darkcyan;
 }
 footer p{
-	margin: 10px 0px 0px 0px;
+	margin: 10px 0px 0px 40%;
 }
 
 @media screen and (max-width: 480px){
